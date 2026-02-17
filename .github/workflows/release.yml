@@ -8,6 +8,7 @@ on:
   release:
     types: [published]
 
+
 # Define environment variables for the workflow
 env:
   REGISTRY: ghcr.io
